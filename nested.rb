@@ -38,7 +38,7 @@ def alan_kay_is_known_for
         }
      }
     
-  return programmer_hash[:alan_kay][0]
+  return programmer_hash[:alan_kay][0][0]
 end
 
 def dennis_ritchies_language
